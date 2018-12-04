@@ -1,0 +1,15 @@
+{
+  "name": "dvbtable",
+  "version": "1.0.0",
+  "description": "Bootstrap responsive table",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bootstrap",
+    "table"
+  ],
+  "author": "Daan van Berkel <info@daanvanberkel.nl> (https://www.daanvanberkel.nl)",
+  "license": "MIT"
+}

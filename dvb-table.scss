@@ -1,0 +1,24 @@
+.dvb-table {
+    &.dvb-table-striped {
+        .dvb-table-row:nth-child(even) {
+            background-color: #F2F2F2;
+        }
+    }
+
+    &.dvb-table-hover {
+        .dvb-table-row:hover {
+            background-color: #ECECEC;
+        }
+    }
+
+    .dvb-table-head {
+        font-weight: bold;
+        border-top: 1px solid #dee2e6;
+        border-bottom: 2px solid #dee2e6;
+    }
+
+    div[class^="col"] {
+        padding: .75rem;
+    }
+}
+
